@@ -12,6 +12,6 @@ public class Save : MonoBehaviour
     // Update is called once per frame
     public void SaveGame()
     {
-        PlayerPrefs.Save("Test", number);
+    //    PlayerPrefs.Save("Test", number);
     }
 }
